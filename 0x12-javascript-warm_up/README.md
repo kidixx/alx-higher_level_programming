@@ -1,6 +1,7 @@
 # 0x12. JavaScript - Warm up
 
-# kidixx  README file
+![Javascript-535 png](https://github.com/Official0mega/alx-higher_level_programming/assets/122806822/9d7984da-c0ab-428c-8588-886e71c75d2f)
+
 
 # General
 * Why JavaScript programming is amazing
